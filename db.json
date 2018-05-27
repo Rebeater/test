@@ -1,16 +1,17 @@
 {
-"companyName":"Electronics" ,
-"pais":"Mexico" ,
-"cp":"2305" ,
-"ciudad":"La Pah" ,
-"estado":"BCS" ,
-"domicilio":"Rosaura Zapata" ,
-"telefonoCode":"52" ,
-"telefono":"61215451" ,
-"correo":"correo@gmai.com" ,
-"correoSoporte":"correoSuppor@gmail.com" ,
-"passSoporte":"contrasena" ,
-"img":"img/131-logo-steren.png" ,
-"descripcion":"Electrónica Steren es una empresa Mexicana que fue fundada en la Ciudad de México en 1956 que se dedica a comercializar bienes electrónicos, de computación y tecnología. Tiene más de 360 tiendas distribuidas en México, Costa Rica, República Dominicana, Guatemala, Colombia y Estados Unidos, y una oficina de control de calidad en Shanghai, China."
+   "ajustes":[
+    { "pais":"Mexico", "cp":"2305", "ciudad":"La Pah", "estado":"BCS", "domicilio":"Rosaura Zapata", "telefonoCode":"52", "telefono":"61215451", "correo":"correo@gmai.com", "correoSoporte":"correoSuppor@gmail.com", "passSoporte":"contrasena", "img":"img/131-logo-steren.png", "descripcion":"Electrónica Steren es una empresa Mexicana que fue fundada en la Ciudad de México en 1956 que se dedica a comercializar bienes electrónicos, de computación y tecnología. Tiene más de 360 tiendas distribuidas en México, Costa Rica, República Dominicana, Guatemala, Colombia y Estados Unidos, y una oficina de control de calidad en Shanghai, China."}
+  ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "companyName":"Electronics" , "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-      
